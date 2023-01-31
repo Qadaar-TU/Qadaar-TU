@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marcel Özakman</h1>
 <br>
 
-I'm a Full Stack Web-Developer from Germany 🇩🇪
+I'm a Full Stack Web-Developer with a beard from Germany 🇩🇪, and i found my love for Coffee though coding ☕️ 
 
 <br>
 <br>
