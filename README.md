@@ -20,7 +20,7 @@ Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhi
 
 - 🏠 Proud Father of 3 beautiful children
 - 📝 Learning currently React
-- 🧑‍💻 I'm looking currently for a Job as a Frontend-Developer
+- 🧑‍💻 I'm currently looking for a Job as a Frontend-Developer
 - 📫 Feel free to reach out to me via <a href="https://www.linkedin.com/in/marcel-%C3%B6zakman-83522b264/" target="_blank" rel="noopener">LinkedIn</a>
 - 🤓 Currently i am polishing my Coding-Skills via Coding Boot-Camp <a href="https://www.super-code.de/" target="_blank" rel="noopener">Super Code</a>
 - ❇ Fun fact: **I think I am funny 😅**
