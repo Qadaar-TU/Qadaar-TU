@@ -30,7 +30,7 @@ I'm a Full Stack Web-Developer from Germany 🇩🇪
 
 - <a href="https://qadaar-tu.github.io/California-Calling/" target="_blank" rel="noopener">California Calling</a> is one of my first Websites using only HTML and CSS. But is has some small fancy CSS Animation 🍿
 
-- 
+- Another Project of mine : An <a href="https://qadaar-tu.github.io/design-shop/" target="_blank" rel="noopener">Online Shop</a>, which sells expensive stuff, that nobody needs nor anyone can afford 🤣
 
 <br>
 <br>
