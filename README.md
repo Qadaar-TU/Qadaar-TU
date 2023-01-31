@@ -28,7 +28,7 @@ I'm a Full Stack Web-Developer from Germany 🇩🇪
 
 ## Projects 🗂
 
-- <a href="https://www.qadaar-tu.github.io/California-Calling/" target="_blank" rel="noopener">Here</a> is one of my first Websites
+- <a href="https://qadaar-tu.github.io/California-Calling/" target="_blank" rel="noopener">Here</a> is one of my first Websites
 
 - 
 
