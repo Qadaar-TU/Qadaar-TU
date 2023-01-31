@@ -2,18 +2,19 @@
 <h1 align="center">Hi 👋, I'm Marcel Özakman</h1>
 <br>
 
-I'm a Full Stack Web-Developer with a Full-Stack-Beard 🤭. I am from Germany 🇩🇪 and i found my love for Coffee through coding ☕️ 
-
-<br>
-<br>
-
 ## About me
+
+<br>
+Hark! I am a Full Stack Web-Developer, with nimble fingers and a quick mind for crafting digital marvels. And lo, my visage bears witness to my craft, for I have grown a Full-Stack-Beard 🤭, a symbol of my devotion and prowess in the art of web-development.
+Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhine and the mountains loom o'er the horizon. 'Twas through the art of coding, that I found my true passion and love for the nectar of god, coffee ☕️. Oh how the bitter brew stirs my soul and warms my heart, a true elixir for the mind and spirit!
+<br>
+<br>
+
+## More About me in simpler words 
 
 "As a passionate software developer 🧑‍💻, I am dedicated to deliver high-quality and innovative solutions. With a background in full-stack development and a love for problem-solving, I have a knack for creating user-friendly and efficient applications📱. In my free time, I enjoy staying up-to-date with the latest technologies and expanding my skill set through self-study and participation in coding communities. Let's build something great together!"📈🌟
 
 <br>
-<br>
-
 
 ## Essential facts :
 
@@ -22,9 +23,9 @@ I'm a Full Stack Web-Developer with a Full-Stack-Beard 🤭. I am from Germany �
 - 🧑‍💻 I'm looking currently for a Job as a Frontend-Developer
 - 📫 Feel free to reach out to me via <a href="https://www.linkedin.com/in/marcel-%C3%B6zakman-83522b264/" target="_blank" rel="noopener">LinkedIn</a>
 - 🤓 Currently i am polishing my Coding-Skills via Coding Boot-Camp <a href="https://www.super-code.de/" target="_blank" rel="noopener">Super Code</a>
-- ❇ Fun fact **I think I am funny :)**
+- ❇ Fun fact: **I think I am funny 😅**
 
-
+<br>
 
 ## Projects 🗂
 
