@@ -28,7 +28,7 @@ I'm a Full Stack Web-Developer from Germany 🇩🇪
 
 ## Projects 🗂
 
-Coming soon
+- qadaar-tu.github.io/California-Calling/
 
 <br>
 <br>
