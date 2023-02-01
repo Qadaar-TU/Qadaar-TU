@@ -36,8 +36,6 @@ Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhi
 - The <a href="https://qadaar-tu.github.io/Headphone-Inspiration/index.html" target="_blank" rel="noopener">Headphone Inspiration</a>, is another Online-Shop that i built to show off 💪 
 
 <br>
-<br>
-<br>
 
 ## App Projects 🗂
 
@@ -48,6 +46,8 @@ Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhi
 - Another React Project. It's a huge Database of the hottest <a href="https://exquisite-daifuku-ec7552.netlify.app/
 " target="_blank" rel="noopener">Games</a> for PC and Browser 🕹️
 
+<br>
+<br>
 
 
 
