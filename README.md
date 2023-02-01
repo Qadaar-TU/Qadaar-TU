@@ -6,7 +6,7 @@
 
 <br>
 Hark! I am a Full Stack Web-Developer, with nimble fingers and a quick mind for crafting digital marvels. And lo, my visage bears witness to my craft, for I have grown a Full-Stack-Beard 🤭, a symbol of my devotion and prowess in the art of web-development.
-Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhine and the mountains loom o'er the horizon. 'Twas through the art of coding, that I found my true passion and love for the nectar of god, coffee ☕️. Oh how the bitter brew stirs my soul and warms my heart, a true elixir for the mind and spirit!
+Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhine and the mountains loom o'er the horizon. 'Twas through the art of coding, that I found my true passion and love for the nectar from god, coffee ☕️. Oh how the bitter brew stirs my soul and warms my heart, a true elixir for the mind and spirit!
 <br>
 <br>
 
