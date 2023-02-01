@@ -27,11 +27,13 @@ Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhi
 
 <br>
 
-## Projects 🗂
+## Website Projects 🗂
 
 - <a href="https://qadaar-tu.github.io/California-Calling/" target="_blank" rel="noopener">California Calling</a> is one of my first Websites using only HTML and CSS. I implemented some small but fancy CSS Animation 🍿
 
 - Another Project of mine : An <a href="https://qadaar-tu.github.io/design-shop/" target="_blank" rel="noopener">Online Shop</a>, which sells expensive stuff, that nobody needs nor anyone can afford 🤣
+
+- The <a href="https://qadaar-tu.github.io/Headphone-Inspiration/index.html" target="_blank" rel="noopener">Headphone Inspiration</a>, is another Online-Shop that i built to show off 💪 
 
 <br>
 <br>
