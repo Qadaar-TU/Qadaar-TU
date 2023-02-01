@@ -39,6 +39,15 @@ Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhi
 <br>
 <br>
 
+## App Projects 🗂
+
+- Check out my <a href="https://iridescent-maamoul-d8c323.netlify.app/
+" target="_blank" rel="noopener">Pokemon App</a>, which shows tens of thousands of Pokemons and details about their abilities. I used React for this one.
+
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
