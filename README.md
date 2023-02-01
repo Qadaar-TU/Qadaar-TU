@@ -42,9 +42,11 @@ Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhi
 ## App Projects 🗂
 
 - Check out my <a href="https://iridescent-maamoul-d8c323.netlify.app/
-" target="_blank" rel="noopener">Pokemon App</a>, which shows tens of thousands of Pokemons and details about their abilities. I used React for this one.
+" target="_blank" rel="noopener">Pokemon App</a>, which shows tens of thousands of Pokemons and details about their abilities. The <a href="https://pokeapi.co/
+" target="_blank" rel="noopener">API</a> has 10k+ Pokemons. For this Project i used <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 
-
+- Another React Project. It's a huge Database of the hottest <a href="https://exquisite-daifuku-ec7552.netlify.app/
+" target="_blank" rel="noopener">Games</a> for PC and Browser 🕹️
 
 
 
