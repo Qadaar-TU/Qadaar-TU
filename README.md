@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Marcel Özakman</h1>
+<h1 align="center">Hi 👋, I'm Marcel Unterberg</h1>
 <br>
 
 ## About me
