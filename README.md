@@ -19,10 +19,10 @@ Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhi
 ## Essential facts :
 
 - 🏠 Proud Father of 3 beautiful children
-- 📝 Learning currently React
-- 🧑‍💻 I'm currently looking for a Job as a Frontend-Developer
+- 📝 Learning currently Linux and AWS
+- 🧑‍💻 I'm currently looking for a Job 
 
-- 🤓 Currently i am polishing my Coding-Skills via Coding Boot-Camp <a href="https://www.super-code.de/" target="_blank" rel="noopener">Super Code</a>
+
 - ❇ Fun fact: **I think I am funny 😅**
 
 <br>
