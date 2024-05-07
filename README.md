@@ -10,6 +10,7 @@ Hark! I am a AWS Cloud Engineer/ Solution Architect, with nimble fingers and a q
 <br>
 I am dedicated to deliver high-quality and innovative solutions. With a background in full-stack development and a love for problem-solving, I have a knack for creating user-friendly and efficient applications & IT Infrastructure📱. In my free time, I enjoy staying up-to-date with the latest technologies and expanding my skill set through self-study. Let's build something great together!📈🌟
 <br>
+<br>
 
 ## Essential facts :
 
@@ -21,7 +22,7 @@ I am dedicated to deliver high-quality and innovative solutions. With a backgrou
 - ❇ Fun fact: **I think I am funny 😅**
 
 <br>
-
+<br>
 
 ## Cloud Projects 🗂
 
