@@ -27,6 +27,7 @@ I am dedicated to deliver high-quality and innovative solutions. With a backgrou
 
 - I recently finished a DevOps project where I hosted a WordPress website on AWS, click <a href="https://github.com/Qadaar-TU/Host-a-WordPress-Website-on-AWS-.git" target="_blank" rel="noopener">here</a>
 
+<br>
 
 ## Website Projects 🗂
 
