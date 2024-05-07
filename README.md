@@ -5,14 +5,13 @@
 ## About me
 
 <br>
-Hark! I am a Full Stack Web-Developer, with nimble fingers and a quick mind for crafting digital marvels. And lo, my visage bears witness to my craft, for I have grown a Full-Stack-Beard 🤭, a symbol of my devotion and prowess in the art of web-development.
-Verily, I hail from the land of Germany 🇩🇪, where the rivers flow with Rhine and the mountains loom o'er the horizon. 'Twas through the art of coding, that I found my true passion and love for the nectar from god, coffee ☕️. Oh how the bitter brew stirs my soul and warms my heart, a true elixir for the mind and spirit!
+Hark! I am a AWS Cloud Engineer/ Solution Architect, with nimble fingers and a quick mind for crafting IT-Infrastructure.
 <br>
 <br>
 
 ## More About me in simpler words 
 
-"As a passionate software developer 🧑‍💻, I am dedicated to deliver high-quality and innovative solutions. With a background in full-stack development and a love for problem-solving, I have a knack for creating user-friendly and efficient applications📱. In my free time, I enjoy staying up-to-date with the latest technologies and expanding my skill set through self-study and participation in coding communities. Let's build something great together!"📈🌟
+"As a passionate Cloud Engineer 🧑‍💻, I am dedicated to deliver high-quality and innovative solutions. With a background in full-stack development and a love for problem-solving, I have a knack for creating user-friendly and efficient applications & IT Infrastructure📱. In my free time, I enjoy staying up-to-date with the latest technologies and expanding my skill set through self-study. Let's build something great together!"📈🌟
 
 <br>
 
