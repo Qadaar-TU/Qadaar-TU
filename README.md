@@ -51,11 +51,10 @@ Hark! I am a AWS Cloud Engineer/ Solution Architect, with nimble fingers and a q
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/40px-Amazon_Web_Services_Logo.svg.png](https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png)" alt="AWS Logo">
-</a>
+
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" alt="AWS Logo">
+  <img src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" alt="AWS Logo" width="40">
 </a>
 
 
